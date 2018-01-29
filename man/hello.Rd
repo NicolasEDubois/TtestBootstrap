@@ -4,7 +4,11 @@
 \alias{hello}
 \title{Hello Function}
 \usage{
-hello()
+hello(FirstName = " ")
+}
+\arguments{
+\item{FirstName}{A character string corresponding to
+the firstname of the person to wil recieve the hello}
 }
 \value{
 un bonjour qui ne coute rien.
