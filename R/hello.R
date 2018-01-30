@@ -1,3 +1,4 @@
+#!/usr/bin/Rscript
 # Hello, world!
 #
 # This is an example function named 'hello'
@@ -8,6 +9,8 @@
 #   http://r-pkgs.had.co.nz/
 #
 # Some useful keyboard shortcuts for package authoring:
+#!/usr/bin/Rscript
+
 #
 #   Build and Reload Package:  'Ctrl + Shift + B'
 #   Check Package:             'Ctrl + Shift + E'
