@@ -1,4 +1,5 @@
 #!/usr/bin/Rscript
+
 #' Hello Function
 #' @param FirstName A character string corresponding to
 #' the firstname of the person to wil recieve the hello

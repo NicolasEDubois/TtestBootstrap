@@ -1,4 +1,5 @@
 #!/usr/bin/Rscript
+
 #' bonjour Function
 #' @param FirstName A character string corresponding to
 #' the firstname of the person to wil recieve the hello
@@ -6,8 +7,7 @@
 #' @export
 #'
 #' @examples
-#' hello()
-#'
+#' bonjour()
 bonjour <- function(FirstName=" ") {
   MessageToPrint = trimws(paste("Bonjour",FirstName,sep = " "))
   return(MessageToPrint)
